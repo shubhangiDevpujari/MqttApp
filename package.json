@@ -1,0 +1,17 @@
+{
+  "name": "broker",
+  "version": "1.0.0",
+  "description": "missearn",
+  "main": "broker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Apple"
+  ],
+  "author": "Shubhangi",
+  "license": "ISC",
+  "dependencies": {
+    "mosca": "^2.5.1"
+  }
+}
